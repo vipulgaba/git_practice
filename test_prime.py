@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-num = 11
-=======
-
 import sys
 import tensorflow as tf
 
@@ -9,7 +5,7 @@ print(sys.version)
 print(tf.__version__)
 
 num = 12
->>>>>>> f59de25 (test commit)
+
 # If given number is greater than 1
 if num > 1:
     # Iterate from 2 to n / 2
